@@ -40,8 +40,8 @@ Si estás buscando un programador web confiable y experimentado, ¡no dudes en c
 
 Aquí puedes encontrar algunos enlaces a mi trabajo:
 
-Portafolio: https://portfolio-walter2023.my.canva.site/portafolio
-GitHub: https://github.com/WalterProgrammer93
-LinkedIn: https://www.linkedin.com/
+- Portafolio: https://portfolio-walter2023.my.canva.site/portafolio
+- GitHub: https://github.com/WalterProgrammer93
+- LinkedIn: https://www.linkedin.com/in/walter-salmon-pico-852823197/
 
 ¡Gracias por tu tiempo!
