@@ -1,14 +1,21 @@
-¡Hola! Soy un programador web apasionado por crear sitios web dinámicos e interactivos. Me especializo en el desarrollo front-end y back-end, utilizando las últimas tecnologías para ofrecer soluciones web de alta calidad.
+¡Hola! Soy un técnico en sistemas microinformáticos y redes y soy desarrollador de aplicaciones web apasionado por crear sitios web dinámicos e interactivos. Me especializo en el desarrollo front-end y back-end, utilizando las últimas tecnologías para ofrecer soluciones web de alta calidad.
 
 
 
 Mis habilidades incluyen:
 
-Lenguajes de programación: HTML, CSS, JavaScript, PHP, Python, Java
-Frameworks: React, Angular, Vue.js, Laravel, Django, Spring Boot
-Bases de datos: MySQL, PostgreSQL, MongoDB
-Herramientas de control de versiones: Git, GitHub
-Metodologías ágiles: Scrum, Kanban
+Lenguajes de programación: JavaScript, PHP, Python, Java JSE/JEE, C, C++, C#, PL/SQL, SQL, Assembler, MATLAB, Lisp, script batch, PowerShell.
+Lenguajes de marca y sistema de gestión de información: HTML5, CSS3, HTML4, XML, DTD, XSD, XSLT, XPATH, XQUERY.
+Frameworks: React, Angular, Vue, Laravel, Spring Boot, Node, JSON, JQuery.
+Entornos de desarrollo: NetBeans IDE v8, Visual Studio Code, Code::Block, Sublime txt, Notepad++, IntellijIDE, Android Studio, Eclipse, XML Copy Editor, PseInt, WorkBench v6, Arduino v1.8, BaseX782, UML Visual Paradigm v12/13, ToadDataModeleter v6.
+Entornos de red y auditoria: Cisco Packet tracer v6, Wireshark v10, Nmap v2.
+Entornos de diseño y modelado 3D: Blender 3D v2/3/4, AutoDesk 3DS Max V17, Unity 3D v20/22.
+Sistemas operativos: Windows v7/vista/10/11, Unix Ubuntu v12/14/18/20/22, , Windows Server version v2008/10/12, Unix Ubuntu Sever v12/14/18.
+Máquinas virtuales: VirtualBox, MVware Workstation.
+Bases de datos: MySQL v5, PostgreSQL, SQLite, MongoDB, OracleDB.
+Herramientas de control de versiones: Git, GitHub, GitLab.
+Metodologías ágiles: Scrum, Kanban.
+Microsoft Office: Excel v8/12/16, Access v8/12/16, Word v8/12/16, PowerPoint v8/12/16.
 
 Algunos de mis proyectos incluyen:
 
@@ -22,7 +29,7 @@ Si estás buscando un programador web confiable y experimentado, ¡no dudes en c
 Aquí puedes encontrar algunos enlaces a mi trabajo:
 
 Portafolio: https://www.yourportfolio.website/home
-GitHub: https://docs.github.com/articles/about-your-profile
+GitHub: 
 LinkedIn: https://www.linkedin.com/
 
 ¡Gracias por tu tiempo!
