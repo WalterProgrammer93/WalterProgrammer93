@@ -2,13 +2,13 @@
 
 Mis habilidades incluyen:
 
-  - Lenguajes de programación: JavaScript, PHP, Python, Java, JSP/J2EE, C, C++, C#, PL/SQL, SQL, Assembler, MATLAB, ASP.NET, scripting batch, PowerShell.
+  - Lenguajes de programación: JavaScript, PHP, Python, Java, JSP/J2EE, C, C++, C#, PL/SQL, SQL, COBOL, Assembler, MATLAB, ASP.NET, scripting batch, PowerShell.
   
   - Lenguajes de marca y sistema de gestión de información: HTML5, CSS3, XML, DTD, XSD, XSLT, XPATH, XQUERY.
   
   - Frameworks: React, AngularJS, VueJS, Laravel 5, Spring Boot, NodeJS, JSON, JQuery.
   
-  - Entornos de desarrollo: NetBeans IDE v8/22, Visual Studio Code, Code::Block, Sublimetxt, Notepad++, Android Studio IDE, Eclipse IDE, XML Copy Editor, PseInt, WorkBench       v6, Arduino v2.8, BaseX v782/22, UML Visual Paradigm v12/13/17, ToadDataModeleter v6.
+  - Entornos de desarrollo: NetBeans IDE v8/22, Visual Studio Code, Code::Block, Sublimetxt, Notepad++, Android Studio IDE, OpenCobolIDE, Eclipse IDE, XML Copy Editor,           PseInt, WorkBench v6, Arduino v2.8, BaseX v782/22, UML Visual Paradigm v12/13/17, ToadDataModeleter v6.
   
   - Entornos de red y auditoria: Cisco Packet tracer v6/7, Wireshark v10/12, Nmap v2.
   
