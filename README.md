@@ -44,6 +44,6 @@ Aquí puedes encontrar algunos enlaces a mi trabajo:
 
 - Portafolio: https://portfolio-walter2023.my.canva.site/portafolio
 - GitHub: https://github.com/WalterProgrammer93
-- LinkedIn: https://www.linkedin.com/in/walter-salmon-pico-852823197/
+- LinkedIn: https://www.linkedin.com/in/waltersalmonpico/
 
 ¡Gracias por tu tiempo!
